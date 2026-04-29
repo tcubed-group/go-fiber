@@ -4,11 +4,11 @@ go 1.24.0
 
 require (
 	github.com/gofiber/schema v1.3.0
-	github.com/gofiber/utils/v2 v2.0.0-beta.7
+	github.com/gofiber/utils/v2 v2.0.0
 	github.com/google/uuid v1.6.0
 	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-isatty v0.0.20
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tinylib/msgp v1.2.5
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/fasthttp v1.59.0
@@ -18,7 +18,7 @@ require (
 require (
 	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/fxamacker/cbor/v2 v2.7.0 // direct
+	github.com/fxamacker/cbor/v2 v2.9.0 // direct
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/philhofer/fwd v1.1.3-0.20240916144458-20a13a1f6b7c // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
